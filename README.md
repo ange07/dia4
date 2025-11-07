@@ -5,6 +5,7 @@
 
 **negritas** y *cursivas*
 
-Este es un readme, para aprender **markdown**
+Este es un readme, para aprender **markdown**. Es util para la documentacion de los proyectos
+
 
 
